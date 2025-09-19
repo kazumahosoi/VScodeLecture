@@ -1,0 +1,2 @@
+# VScodeLecture
+VSCodeからGit操作をする練習用リポジトリ
